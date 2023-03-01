@@ -1,0 +1,1 @@
+$(".inputtags").tagsinput('items');
